@@ -5,7 +5,7 @@
 **《天问》** 是一款基于原生 `Three.js` 构建的第一人称射击游戏。本项目最硬核的地方在于其 **“零外部资产”** 的单文件架构——不需要下载任何图片、3D 模型或音频文件。所有的场景建筑、敌人机甲、武器模型，甚至墙面上的文字贴图，均由 JavaScript 代码在本地实时程序化生成（Procedural Generation）。
 
 ## 🔗 在线体验 (Live Demo)
-👉 **https://tianwen2000.github.io/FpsGameQi/(替换为你部署好的 GitHub Pages 或 Cloudflare Pages 链接)**
+👉 **https://tianwen2000.github.io/FpsGameQi/ (替换为你部署好的 GitHub Pages 或 Cloudflare Pages 链接)**
 
 ---
 
